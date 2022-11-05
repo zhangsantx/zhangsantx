@@ -21,5 +21,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangsantx&text_color=adbac7&hide_border=true&hide_title=true&langs_count=10&bg_color=2d333b&count_private=true&layout=compact&include_all_commits=true&card_width=900" alt="logo" height="137px" /> 
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangsantx&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FDFF&theme=graywhite&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangsantx&hide_title=true&hide_border=true&layout=compact&bg_color=73FDFF&theme=graywhite&locale=cn" />
 
