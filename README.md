@@ -17,5 +17,5 @@
 
 ## 
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangsantx&text_color=adbac7&hide_border=true&hide_title=true&langs_count=10&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn"&count_private=true&layout=compact&include_all_commits=true&card_width=900)](https://github.com/autofelix?tab=repositories)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangsantx&text_color=adbac7&hide_border=true&hide_title=true&langs_count=10&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&count_private=true&layout=compact&include_all_commits=true&card_width=900)](https://github.com/autofelix?tab=repositories)
 
